@@ -1,3 +1,13 @@
 .logo {
   max-width: 120px;
 }
+
+li {
+  list-style: none;
+  display: inline;
+}
+
+ul {
+  text-align: center;
+}
+
