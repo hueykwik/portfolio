@@ -1,13 +1,25 @@
 .logo {
   max-width: 120px;
+  margin-top: 24px;
+  margin-bottom: 24px;
 }
 
 li {
   list-style: none;
   display: inline;
+  padding: 10px 30px;
+  font-size: 2em;
+}
+
+li:last-of-type {
+  margin-right: 0px;
 }
 
 ul {
   text-align: center;
+}
+
+body {
+  font-family: Open Sans, Helvetica, sans-serif;
 }
 
