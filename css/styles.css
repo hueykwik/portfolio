@@ -1,7 +1,7 @@
 .logo {
   max-width: 30%;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  margin-top: 120px;
+  margin-bottom: 48px;
 }
 
 li {
@@ -17,6 +17,7 @@ li:last-of-type {
 
 ul {
   text-align: center;
+  margin-bottom: 4em;
 }
 
 body {
