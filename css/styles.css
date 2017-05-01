@@ -27,3 +27,16 @@ body {
 img {
   margin-bottom: 40px;
 }
+
+.valign-bottom {
+  display: inline-block;
+  float: none;
+  vertical-align: bottom;
+}
+
+@media (min-width: 768px) {
+  #google {
+    width: 50%;
+  }
+}
+
